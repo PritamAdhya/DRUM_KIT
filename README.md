@@ -1,0 +1,1 @@
+Welcome to the Drum Kit Website! This interactive site is crafted using HTML, CSS, and JavaScript, providing you with a virtual drum kit experience.Play the drums by clicking on the drum elements or using the corresponding keyboard keys.
